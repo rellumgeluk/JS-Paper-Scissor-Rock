@@ -40,7 +40,7 @@ const computerSelection= getComputerChoice();
 playRound(humanSelection, computerSelection);
 
 function playGame() {
-    for (let i=0; i<5; i++) {
+    for (let i=0; i<0; i++) {
         const humanSelection = getHumanChoice();
         const computerChoice = getComputerChoice();
         playRound(humanSelection, computerSelection);
