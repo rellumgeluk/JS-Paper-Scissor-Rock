@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    margin: 10px;
+    background: #f5f9fa;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Choice {
+    padding: 300px;
+    text-align: center;
+}
